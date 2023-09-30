@@ -1,0 +1,4 @@
+data/dev.juanrincon.todo.desktop.in
+data/dev.juanrincon.todo.metainfo.xml.in
+data/dev.juanrincon.todo.gschema.xml
+src/window.ui
